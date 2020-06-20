@@ -1,13 +1,13 @@
 import React from "react";
 
 const Footer = () => {
-    return (
+  return (
         <footer>
           <div className="ui container">
-            <p id="footer">Made with React {React.version}</p>
+            <p id="footer">Made with React 16.13.1</p>
           </div>
         </footer>
-      );
+  );
 };
 
 export default Footer;
