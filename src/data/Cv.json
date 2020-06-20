@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Insurance specialist, April 2018 - May 2020",
+        "image": "https://via.tt.se/data/images/00158/5069fd52-cadf-4576-b267-b5dc79da2b69-w_960_h_960.png",
+        "description": "Insurance specialist with focus on supporting the insurance advisors and business development."
+
+    },
+    {
+        "id": 2,
+        "name": "Insurance Advisor, October 2015 - April 2018",
+        "image": "https://via.tt.se/data/images/00158/5069fd52-cadf-4576-b267-b5dc79da2b69-w_960_h_960.png",
+        "description": "Insurance Advisor for Ifs branded car insurances."
+    },
+    {
+    "id": 3,
+    "name": "Timberland, May 2011 - October 2015",
+    "image": "https://i.pinimg.com/564x/5d/4c/39/5d4c39f2b8e4bfa56043b487f4ef37b4.jpg",
+    "description": "Sales at Timberland flagship store."
+    }
+
+  ]
