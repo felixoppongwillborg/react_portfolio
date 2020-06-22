@@ -40,7 +40,7 @@ class Projects extends Component {
           <div className="column">
             <h1 id='projects-header' className="ui header">My Projects</h1>
             <p>
-              !!!!!!!!!!!!!!!!!!!!!!!!!!!
+             Hello these are my projects
             </p>
           </div>
         </div>
