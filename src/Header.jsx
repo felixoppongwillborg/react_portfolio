@@ -2,26 +2,18 @@ import React from "react";
 import { NavLink, Link } from "react-router-dom";
 
 const Header = () => {
-    return (
-        <nav className="ui fixed inverted menu">
-          <div className="ui container">
-          <Link id="header" className="header item" to="/">
-          My Portfolio
+  return (
+    <nav className="ui fixed inverted menu">
+      <div className="ui container">
+        <Link id="header" className="header item" to="/">
+          About me
         </Link>
         <div className="right menu">
           <NavLink
-            id="about-tab"
+            id="Cv-tab"
             className="ui item"
             activeStyle={{ fontWeight: "bold" }}
-            to="/about"
-          >
-            About Me
-          </NavLink>
-          <NavLink
-          id="Cv-tab"
-          className="ui item"
-          activeStyle={{ fontWeight: "bold" }}
-          to="/cv"
+            to="/cv"
           >
             Cv
           </NavLink>

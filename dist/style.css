@@ -16,5 +16,28 @@ footer {
   }
 body {
   height: auto;
-  margin-bottom: 70px;
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 80px;
 }
+
+nav{
+  padding-bottom: 30px;
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+#FelixBild {
+  border-radius: 50%;
+  max-width: 250px;
+  max-height: 300px;
+  display: block;
+  position: absolute;
+  margin-top: -150px;
+  margin-left: 800px;
+}
+
