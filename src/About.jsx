@@ -9,9 +9,9 @@ const About = () => {
         <UndrawTeamSpirit primaryColor='#12283a' height='200px' />
       </div>
       <div class="column">
-        <h1 id='about-header' className="ui header">About Me</h1>
+        <h1 id='about-header' className="ui header">About me</h1>
         <p>
-          ............................
+          Text about me. 
         </p>
       </div>
     </div>
